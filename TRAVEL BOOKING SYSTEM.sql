@@ -198,6 +198,3 @@ SELECT *FROM customer
 WHERE CUSTOMER_ID = 1           
                  
 SELECT * FROM CUSTOMER_DETAILS
-
-
-
